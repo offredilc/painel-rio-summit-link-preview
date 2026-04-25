@@ -1,0 +1,1 @@
+# painel-rio-summit-link-preview
